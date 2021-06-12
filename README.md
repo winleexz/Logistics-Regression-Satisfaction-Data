@@ -6,6 +6,12 @@ Both of these questions can be addressed with a machine learning algorithm. In t
 ## Key Highlights
 More often than not, organisations may jump straight and channel its resources to improving the bottom 5 satifaction areas such as inflight wifi service, ease of online booking, gate location, etc. However, this may not be an optimal use of organisational resources as not all satisfaction areas are weighted equally i.e. they do not contribute equally to the overall satisfaction score. We could therefore identify the importance/weights of each area using logistics regression.
 
-The top 5 drivers of customer satisfaction from the logistics regression include type of travel, customer type, online boarding, class and inflight wifi service. Hence, we would focus on strengthening the satisfaction of business travellers, loyal customers, online boarding experience and inflight wifi service. 
+![image](https://user-images.githubusercontent.com/85472923/121767332-2add3e80-cb8a-11eb-80c7-a7e11dfc8a33.png)
 
-Notice that the insights and recommendations drawn from the logistics regression can be quite different from the descriptive analytics. The machine learning approach lends a new perspective to the traditional way of analysing customer satisfaction data. Using more precise models such as logistics regression will enable organisations to make more effective use of their limited resources and create a bigger impact to the customers.
+
+The top 5 drivers of customer satisfaction from the logistics regression include type of travel, customer type, online boarding, class and inflight wifi service. Hence, we would focus on strengthening the satisfaction of business travellers, loyal customers, online boarding experience and inflight wifi service. **Notice that the insights and recommendations drawn from the logistics regression can be quite different from the descriptive analytics. **The machine learning approach lends a new perspective to the traditional way of analysing customer satisfaction data. Using more precise models such as logistics regression will enable organisations to make more effective use of their limited resources and create a bigger impact to the customers.
+
+![image](https://user-images.githubusercontent.com/85472923/121767347-46484980-cb8a-11eb-9579-56e9d8485760.png)
+
+
+
